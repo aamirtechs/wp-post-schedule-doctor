@@ -1,0 +1,3 @@
+id,title,status,author,post_type,scheduled_at,published_at,modified_at
+P-301,Weekend sale post,future,Ana,post,2026-11-18 12:00,,2026-11-17 10:00
+P-302,Old idea draft,draft,Ben,post,,,2026-10-01 09:00

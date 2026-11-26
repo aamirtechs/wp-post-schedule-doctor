@@ -1,0 +1,4 @@
+id,title,status,author,post_type,scheduled_at,published_at,modified_at
+P-201,Store opening hours update,future,Ana,post,2026-11-25 09:00,,2026-11-17 10:00
+P-202,November newsletter,publish,Ben,post,2026-11-10 09:00,2026-11-10 09:05,2026-11-10 09:00
+P-203,Gift guide draft,draft,Cara,post,,,2026-11-16 09:00
